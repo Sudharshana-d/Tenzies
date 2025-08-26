@@ -1,12 +1,23 @@
-# React + Vite
+# Tenzies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react) ![Vite](https://img.shields.io/badge/Vite-4.0.0-lightgrey?logo=vite) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-green)
 
-Currently, two official plugins are available:
+**Tenzies** is a fun and interactive React + Vite web app where players roll dice and try to get all dice to show the same number.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
+[Click here to play Tenzies](https://Sudharshana-d.github.io/Tenzies/)
 
-## Expanding the ESLint configuration
+## 🚀 Features
+- Roll dice and hold specific dice  
+- Track number of rolls  
+- Reset and play again  
+- Fun, interactive UI with instant feedback  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** React, Vite, CSS  
+- **Deployment:** GitHub Pages  
+
+## 💻 Installation & Usage
+1. Clone the repository:  
+```bash
+git clone https://github.com/Sudharshana-d/Tenzies.git
